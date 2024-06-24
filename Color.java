@@ -1,3 +1,10 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: David Rosales
+// Email: jdrosales@wisc.edu
+// Lecturer: Jiazhen Zhou
+// CS account: rosales
+// Github account: jdrosales4
+
 /* 
  *	Color class
  */
@@ -20,10 +27,13 @@ public class Color{
 	}
 
 	/* The method for changing the color
-	 * TODO: Revise the code so that it return true only if the input color is valid
-	 * 	and different from the exisitng color before making the change
+	 *
+	 *
 	 */
 	public boolean  changeColor(String newColor){
+		if (this.color == newColor) return false;
+		if (!isColorValid(newColor)) return false;
+
 		this.color = newColor;
 
 		return true;

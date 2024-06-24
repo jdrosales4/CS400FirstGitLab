@@ -1,3 +1,11 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: David Rosales
+// Email: jdrosales@wisc.edu
+// Lecturer: Jiazhen Zhou
+// CS account: rosales
+// Github account: jdrosales4
+
+
 /* 
  * Test the use of the Color method
  */
