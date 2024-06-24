@@ -1,4 +1,4 @@
-/*
+/* 
  *	Color class
  */
 public class Color{
