@@ -6,7 +6,7 @@
 // Github account: jdrosales4
 
 
-/* 
+/*
  * Test the use of the Color method
  */
 import java.util.*;

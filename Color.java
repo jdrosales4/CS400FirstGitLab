@@ -5,7 +5,7 @@
 // CS account: rosales
 // Github account: jdrosales4
 
-/* 
+/*
  *	Color class
  */
 public class Color{
